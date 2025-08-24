@@ -1,0 +1,12 @@
+[
+  {
+    "prompt": "Suggest low-cost ways to improve village water quality.",
+    "chosen": "Start with community education, chlorination points, and simple solar disinfection pilots.",
+    "rejected": "Build a massive dam immediately."
+  },
+  {
+    "prompt": "How to boost school attendance for girls in rural areas?",
+    "chosen": "Provide sanitary kits, safe transport, and after-school support led by local mentors.",
+    "rejected": "Expel students with low attendance."
+  }
+]

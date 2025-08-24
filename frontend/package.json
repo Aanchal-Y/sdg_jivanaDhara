@@ -1,0 +1,11 @@
+{
+  "name": "sdg-frontend",
+  "version": "1.0.0",
+  "dependencies": {
+    "@react-oauth/google": "^0.11.0",
+    "axios": "^1.4.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwindcss": "^3.3.2"
+  }
+}
